@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Rebecca Robbins",
+    "title": "Covid-19 Live Updates: Vaccines and Boosters News - The New York Times",
+    "description": "Paxlovid will most likely be the first Covid drug available in some of the poorest parts of the world. About half of eligible adults in the U.S. are not boosted amid warnings of another surge.",
+    "url": "https://www.nytimes.com/live/2022/03/22/world/covid-19-mandates-cases-vaccine",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/22/multimedia/22virus-briefing-pfizerPROMO7:30AM/22virus-briefing-pfizerPROMO7:30AM-facebookJumbo.jpg",
+    "publishedAt": "2022-03-22T12:15:22Z",
+    "content": "A Maryland resident ready to receive a Covid-19 booster shot in Hagerstown, Md., last month.Credit...Kenny Holston for The New York Times\r\nWhen the Covid vaccine first became widely available a year … [+3030 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Isabel Coles",
+    "title": "Ukrainians Flee Mariupol as Russian Forces Push to Take Port City - The Wall Street Journal",
+    "description": "Russian airstrikes, artillery and mortar rounds have gutted entire neighborhoods in the Ukrainian city",
+    "url": "https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707",
+    "urlToImage": "https://images.wsj.net/im-509380/social",
+    "publishedAt": "2022-03-22T12:15:00Z",
+    "content": "ZAPORIZHZHIA, UkraineAs the battle for Mariupol intensifies, civilians fleeing the conflict told of escalating violence as Russian and Ukrainian forces fought street by street through the downtown of… [+466 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Caitlin McCabe",
+    "title": "Bond Yields Jump, Stock Futures Rise After Powell Says Fed Is Ready to Be More Aggressive - The Wall Street Journal",
+    "description": "Yield on 10-year U.S. Treasury note jumps after Fed chairman eyes quicker interest-rate rises if needed",
+    "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-03-22-2022-11647938476",
+    "urlToImage": "https://images.wsj.net/im-509376/social",
+    "publishedAt": "2022-03-22T11:43:31Z",
+    "content": "U.S. government bond yields surged and stock futures rose, as investors digested Federal Reserve Chairman Jerome Powells more aggressive tone on reining in inflation.\r\nFutures for the S&amp;P 500 and… [+307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Yaron Steinbuch",
+    "title": "Putin critic Alexei Navalny found guilty by Russian court - New York Post ",
+    "description": "The 45-year-old dissident is already serving a 2 ½-year sentence at a prison camp for parole violations related to old fraud charges he claims were fabricated to thwart his political ambitions.",
+    "url": "https://nypost.com/2022/03/22/putin-critic-alexei-navalny-found-guilty-by-russian-court/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/alexei-navalny-guilty-fraud-comp-1.jpg?quality=90&strip=all&w=1024",
+    "publishedAt": "2022-03-22T11:25:00Z",
+    "content": "Jailed Kremlin critic Alexei Navalny faces the prospect of spending a lot more time behind bars after being convicted Tuesday of embezzlement and contempt of court.\r\n“Navalny committed fraud the thef… [+2370 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Clare Foran, CNN",
+    "title": "Supreme Court nominee Ketanji Brown Jackson will face questions at confirmation hearing's second day - CNN",
+    "description": "President Joe Biden's Supreme Court nominee, Ketanji Brown Jackson, is expected to face intense questioning on Tuesday from Republican senators during the second day of her historic confirmation hearings.",
+    "url": "https://www.cnn.com/2022/03/22/politics/ketanji-brown-jackson-confirmation-hearings-day-two/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220321171545-45-ketanji-brown-jackson-hearing-cnnphotos-0321-super-tease.jpg",
+    "publishedAt": "2022-03-22T11:11:41Z",
+    "content": "(CNN)President Joe Biden's Supreme Court nominee, Ketanji Brown Jackson, is expected to face intense questioning on Tuesday from Republican senators during the second day of her historic confirmation… [+6113 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "2 teachers killed at Swedish high school, student arrested - ABC News",
+    "description": "",
+    "url": "https://abcnews.go.com/International/wireStory/teachers-killed-swedish-high-school-suspect-student-83593852",
+    "urlToImage": "https://s.abcnews.com/images/International/WireAP_464e4ca104dc4f4ba33469a1a757f073_16x9_992.jpg",
+    "publishedAt": "2022-03-22T10:30:00Z",
+    "content": "STOCKHOLM -- Two teachers were killed by a student at a high school in southern Sweden, police said Tuesday.\r\nThe 18-year-old student was arrested at the scene on Monday in Malmo, Swedens third-large… [+1718 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Brianna Abbott, Jon Kamp",
+    "title": "Clues to Covid-19’s Next Moves Come From Sewers - The Wall Street Journal",
+    "description": "Wastewater in parts of U.S. has yielded increasing concentrations of the virus, but the data can be murky",
+    "url": "https://www.wsj.com/articles/clues-to-covid-19s-next-moves-come-from-sewers-11647941403",
+    "urlToImage": "https://images.wsj.net/im-508403/social",
+    "publishedAt": "2022-03-22T10:30:00Z",
+    "content": "BOSTONAt a sewage treatment plant on a sliver of land in Boston Harbor, trickles of wastewater are pumped into a plastic jug every 15 minutes. Samples from the jugs, analyzed at a lab in nearby Cambr… [+6692 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hill",
+    "name": "The Hill"
+    },
+    "author": "Alexander Bolton",
+    "title": "Republicans to roll dice by grilling Jackson over child-pornography sentencing decisions | TheHill - The Hill",
+    "description": "Republicans on the Senate Judiciary Committee are set to grill Judge Ketanji Brown Jackson Tuesda...",
+    "url": "https://thehill.com/homenews/senate/599123-republicans-to-roll-dice-by-grilling-jackson-over-child-pornography",
+    "urlToImage": "https://thehill.com/sites/default/files/article_images/hawleyjosh_brownjacksonketanji_032122_split_gn_sentencing.jpg",
+    "publishedAt": "2022-03-22T10:00:25Z",
+    "content": "Republicans on the Senate Judiciary Committee are set to grill Judge Ketanji Brown JacksonKetanji Brown JacksonHawley says he'll bring child porn cases up during Jackson hearing Kavanaugh fight casts… [+8589 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Josh Marcus",
+    "title": "‘Clear sign’ Putin considering using chemical weapons in Ukraine, claims President Biden - The Independent",
+    "description": "Russian leader’s ‘back is against the wall’ says US leader",
+    "url": "https://www.independent.co.uk/news/world/americas/biden-putin-hypersonic-rocket-ukraine-b2040934.html",
+    "urlToImage": "https://static.independent.co.uk/2022/03/21/23/GettyImages-956355786.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-03-22T09:59:55Z",
+    "content": "Joe Biden has warned there is a clear sign Vladimir Putin is preparing to use chemical or biological weapons in Ukraine.\r\nThe US president claimed Putins back is against the wall amid fierce Ukrainia… [+2979 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Jonathan Chadwick",
+    "title": "NASA confirms there are 5,000 planets outside our solar system - Daily Mail",
+    "description": "Another 65 exoplanets have been added to the online NASA Exoplanet Archive, bringing the grand total of known exoplanets to 5,005, the Washington, D.C. space agency has announced.",
+    "url": "https://www.dailymail.co.uk/sciencetech/article-10638709/NASA-confirms-5-000-planets-outside-solar-system.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/22/08/55645829-0-image-a-25_1647938243541.jpg",
+    "publishedAt": "2022-03-22T09:59:17Z",
+    "content": "NASA has confirmed that there are more than 5,000 known planets outside our solar system, known as exoplanets. \r\nThe US space agency has added another 65 exoplanets to the online NASA Exoplanet Archi… [+7565 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Associated Press",
+    "title": "US stocks whipsawed overnight after Fed Chair Powell's remarks - Fox Business",
+    "description": "U.S. stocks were whipsawing between negative and positive territory overnight after investors sold stocks and government bonds after Federal Reserve Chairman Jerome Powell reiterated the central bank's commitment to controlling inflation through a rapid serie…",
+    "url": "https://www.foxbusiness.com/markets/us-stocks-whipsawed-overnight-after-feds-powells-remarks",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/2stocks-3-22-22.jpg?ve=1&tl=1",
+    "publishedAt": "2022-03-22T08:34:59Z",
+    "content": "U.S. stocks were whipsawing between negative and positive territory overnight after investors sold stocks and government bonds after Federal Reserve Chairman Jerome Powell reiterated the central bank… [+5375 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "'We've learned absolutely nothing': Tests could again be in short supply if Covid surges - POLITICO",
+    "description": "Covid-19 infections are rebounding in several European countries and Biden officials are monitoring infections in the United Kingdom.",
+    "url": "https://www.politico.com/news/2022/03/22/tests-short-supply-if-covid-surges-00019046",
+    "urlToImage": "https://static.politico.com/2d/e2/bcf25b924786b4146ec165d0d362/https-delivery.gettyimages.com/downloads/1366126385",
+    "publishedAt": "2022-03-22T08:30:00Z",
+    "content": "If we get to a point where companies really are turning off lines or laying off people are not making investments in the Covid test market and we have another surge, then we will not be ready to go, … [+7735 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Mail"
+    },
+    "author": "Rebecca English, Jessica Green, Kaya Terry",
+    "title": "Duchess of Cambridge swaps khaki jungle gear for Vampire's Wife dress on Belize trip - Daily Mail",
+    "description": "Kate, 40, dressed in the  £2,500 pink gown by the British designer for an evening reception in celebration of Her Majesty The Queen's Platinum Jubilee.",
+    "url": "https://www.dailymail.co.uk/femail/article-10637327/Casual-Kate-Middleton-sports-70-khaki-trousers-visit-Mayan-ruins-Belize-jungle.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/22/02/55637269-0-image-a-6_1647915783900.jpg",
+    "publishedAt": "2022-03-22T08:21:32Z",
+    "content": "The Duchess of Cambridge swapped her khaki jungle outfit for a floor-length shimmering gown by royal favourite designer The Vampire's Wife on the third day of her Belize trip with her husband Prince … [+9326 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "China searches for victims, flight recorders after first plane crash in 12 years - Reuters",
+    "description": "Rescuers combed heavily forested mountain slopes in southern China on Tuesday, using shovels and torches in their hunt for victims and flight recorders from a China Eastern Airlines <a href=\"https://www.reuters.com/companies/600115.SS\" target=\"_blank\">(600115…",
+    "url": "https://www.reuters.com/world/china/search-rescue-under-way-after-chinas-first-plane-crash-since-2010-2022-03-22/",
+    "urlToImage": "https://www.reuters.com/resizer/HTd6BjeQzSMQYTDQxFcGrWMqKTE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLD6DPSKFNIADOKJBO27CAQVRA.jpg",
+    "publishedAt": "2022-03-22T07:38:00Z",
+    "content": "WUZHOU, China, March 22 (Reuters) - Rescuers combed heavily forested mountain slopes in southern China on Tuesday, using shovels and torches in their hunt for victims and flight recorders from a Chin… [+4268 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Second superyacht linked to Russian oligarch Abramovich docks in Turkey - Reuters",
+    "description": "A superyacht linked to Russian billionaire Roman Abramovich docked in the Turkish tourist resort of Marmaris on Tuesday, a port source said, a day after another of his yachtsarrived in nearby Bodrum, also in the county's southwest.",
+    "url": "https://www.reuters.com/business/second-superyacht-linked-russian-oligarch-abramovich-off-turkey-shipping-data-2022-03-22/",
+    "urlToImage": "https://www.reuters.com/resizer/DqlhXsw6XXYfQFvr-sissUaHrYo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZHDMDVYIZNJXVJVXSCPPOZQHNQ.jpg",
+    "publishedAt": "2022-03-22T06:36:00Z",
+    "content": "ISTANBUL, March 22 (Reuters) - A superyacht linked to Russian billionaire Roman Abramovich docked in the Turkish tourist resort of Marmaris on Tuesday, a port source said, a day after another of his … [+2470 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "The Associated Press",
+    "title": "Live updates: Russia stops talks with Japan over sanctions - The Associated Press - en Español",
+    "description": "BELGRADE, Serbia — A senior Serbian official says Belgrade will never impose sanctions or join the Western “hysteria” against Russia for its invasion of Ukraine. Serbia’s Interior Minister Aleksandar Vulin said Tuesday: “Serbia will never be part of the anti-…",
+    "url": "https://apnews.com/d970e7c51c2b6662b3ebe4531a96aa0f",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/cd9fecb751914f50919112df9790109c/3000.jpeg",
+    "publishedAt": "2022-03-22T05:08:14Z",
+    "content": "BELGRADE, Serbia A senior Serbian official says Belgrade will never impose sanctions or join the Western hysteria against Russia for its invasion of Ukraine.\r\nSerbias Interior Minister Aleksandar Vul… [+14474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Alan Blinder",
+    "title": "Powers Remain and Threats Lurk as Women’s Sweet 16 Is Set - The New York Times",
+    "description": "Sure, South Carolina and UConn are among the schools still in the mix — but so are the upset magicians South Dakota and Creighton.",
+    "url": "https://www.nytimes.com/2022/03/22/sports/ncaabasketball/ncaa-womens-tournament-sweet-16.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/21/multimedia/21wcbb-sweet-16-scarolina/21wcbb-sweet-16-scarolina-facebookJumbo.jpg",
+    "publishedAt": "2022-03-22T04:48:23Z",
+    "content": "Ohio State, among the countrys best programs behind the arc, will meet a feisty Texas team Punch first, thats always our motto, Aliyah Matharu, a junior guard, said that did not allow more than 56 po… [+1310 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Webb Space Telescope Begins Multi-Instrument Alignment - SciTechDaily",
+    "description": "After meeting the major milestone of aligning the telescope to NIRCam, the Webb team is starting to extend the telescope alignment to the guider (the Fine Guidance Sensor, or FGS) and the other three science instruments. This six-week-long process is called m…",
+    "url": "https://scitechdaily.com/webb-space-telescope-begins-multi-instrument-alignment/",
+    "urlToImage": "https://scitechdaily.com/images/NASAs-Webb-Space-Telescope.gif",
+    "publishedAt": "2022-03-22T04:29:37Z",
+    "content": "NASA’s James Webb Space Telescope. Credit: NASA Goddard Space Flight Center and Northrup Grumman\r\nAfter meeting the major milestone of aligning the telescope to NIRCam, the Webb team is starting to e… [+3005 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "UConn vs UCF - NCAA women's tournament second-round highlights - March Madness",
+    "description": "Connecticut defeated UCF, 52-47, in the second-round of the NCAA tournament to advance the Huskies to the Sweet 16 for a record setting 18th tournament in a ...",
+    "url": "https://www.youtube.com/watch?v=S8MT0Z5YLXo",
+    "urlToImage": "https://i.ytimg.com/vi/S8MT0Z5YLXo/hqdefault.jpg",
+    "publishedAt": "2022-03-22T03:31:50Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Mitch Smith, Eduardo Medina",
+    "title": "Bucking Republican Trend, Indiana Governor Vetoes Transgender Sports Bill - The New York Times",
+    "description": "Gov. Eric Holcomb nixed legislation that would have blocked transgender girls from playing school sports. Eleven states have enacted similar bills.",
+    "url": "https://www.nytimes.com/2022/03/21/us/eric-holcomb-transgender-sports.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/03/21/multimedia/21indiana-top/21indiana-top-facebookJumbo.jpg",
+    "publishedAt": "2022-03-22T02:59:42Z",
+    "content": "Since 2019, state lawmakers across the country have introduced dozens of bills that would prohibit transgender youths from participating in school sports on teams consistent with their identities, ac… [+1308 chars]"
+    }
+    ]
+    }
